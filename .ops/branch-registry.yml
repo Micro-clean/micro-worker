@@ -1,0 +1,15 @@
+repository: Micro-clean/micro-worker
+branches:
+  main:
+    created_at: "2025-07-05T09:00:00+05:30"
+  feature/MP-8-profile-tabs:
+    created_at: "2025-11-08T10:30:00+05:30"
+  release/MP-12-obsolete-canary:
+    created_at: "2025-09-01T09:00:00+05:30"
+  release/2.0:
+    created_at: "2026-01-10T09:00:00+05:30"
+  dependabot/npm_and_yarn/axios-1.8.2:
+    created_at: "2025-12-29T02:00:00+05:30"
+  production-canary:
+    created_at: "2025-08-01T08:00:00+05:30"
+
